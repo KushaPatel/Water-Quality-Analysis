@@ -19,7 +19,23 @@ This project performs the following steps:
 ## Setup Instructions
 ### Prerequisites
 1. **Python 3.x** must be installed.
-2. Install required dependencies by running the following command:
+2. Install required dependencies.
 
-```bash
-pip install -r requirements.txt
+##Running the Code
+1.Clone the Repository:
+git clone https://github.com/KushaPatel/Water-Quality-Analysis.git
+
+2.Navigate to the Project Directory:
+cd Water-Quality-Analysis
+
+3.Activate the Virtual Environment (if applicable):
+For Windows:
+.\env\Scripts\activate
+For macOS/Linux:
+source env/bin/activate
+
+4.Run the Python Script: After installing dependencies and setting up the environment, run the Python script water_qualitys.py to perform the analysis:
+python Code/water_qualitys.py
+
+
+
